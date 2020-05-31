@@ -1,2 +1,2 @@
-# Checklist-
-React Natiev simple checklist
+# Checklist
+React Native simple checklist
